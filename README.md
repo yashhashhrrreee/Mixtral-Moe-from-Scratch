@@ -103,7 +103,7 @@ x ← x + SparseMoE( LayerNorm(x) )
 ## Quickstart
 
 ```bash
-git clone https://github.com/<your-username>/mixtral-moe-from-scratch
+git clone [https://github.com/<your-username>/mixtral-moe-from-scratch](https://github.com/yashhashhrrreee/Mixtral-Moe-from-Scratch.git)
 cd mixtral-moe-from-scratch
 pip install -r requirements.txt
 
